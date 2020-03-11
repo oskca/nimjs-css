@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "nimcache/": "explorerExcludedFiles",
+    "src/nimjs_css.js": "explorerExcludedFiles"
+  }
+}
